@@ -1,4 +1,4 @@
-Este projeto é um exercicio pratique para ajudar na compreensão de composição com C#.
+Este projeto é um exercicio pratico, para ajudar na compreensão de composição com C#.
 
 Diagrama UML 
 
