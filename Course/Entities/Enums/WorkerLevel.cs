@@ -9,7 +9,7 @@ namespace Course.Entities.Enums
     enum EnumWorkerLevel : int
     {
         Junior = 0,
-        Mid_level = 1,
+        MidLevel = 1,
         Senior = 2
     }
 }
